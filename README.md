@@ -28,5 +28,9 @@ https://github.com/Abhikale022/online-kyc/assets/103479146/021bd902-4779-4246-ba
 [Online_KYC.pptx](https://github.com/Abhikale022/online-kyc/files/14611839/Online_KYC.pptx)
 
 <br/>
+
+https://github.com/Abhikale022/online-kyc/assets/103479146/49b83e21-e9d3-4af3-8fdf-e16c8ac4f35e
+
+
 In summary, our KYC website offers a convenient, secure, and efficient solution for identity verification. Whether you're a financial institution, online platform, or individual user, you can rely on us to facilitate a smooth and reliable KYC process. Thank you for choosing our platform for your identity verification needs.
 
