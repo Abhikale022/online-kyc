@@ -23,7 +23,7 @@ View our website:https://abhikale022.github.io/online-kyc/
 <br/>
 Demo Video folder:https://drive.google.com/drive/folders/1fdxtvxAk1G-RHbhSOVX4uuzcm_xGslhs?usp=sharing
 
-https://github.com/Abhikale022/online-kyc/assets/103479146/021bd902-4779-4246-ba76-af30ee7d81f1
+
 
 [Online_KYC.pptx](https://github.com/Abhikale022/online-kyc/files/14611839/Online_KYC.pptx)
 
