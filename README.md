@@ -22,6 +22,10 @@ User Privacy: Protecting your privacy is our top priority. We employ robust secu
 View our website:https://abhikale022.github.io/online-kyc/
 <br/>
 Demo Video folder:https://drive.google.com/drive/folders/1fdxtvxAk1G-RHbhSOVX4uuzcm_xGslhs?usp=sharing
+
+https://github.com/Abhikale022/online-kyc/assets/103479146/021bd902-4779-4246-ba76-af30ee7d81f1
+
+
 <br/>
 In summary, our KYC website offers a convenient, secure, and efficient solution for identity verification. Whether you're a financial institution, online platform, or individual user, you can rely on us to facilitate a smooth and reliable KYC process. Thank you for choosing our platform for your identity verification needs.
 
