@@ -7,7 +7,7 @@ User-Friendly Interface: Our website features an intuitive interface that guides
 
 Personal Information: Begin by providing your full name, date of birth, and address. This information helps us verify your identity and ensure compliance with regulatory requirements.
 
-Document Upload: Next, securely upload your identification documents, such as aadhar card, signature and pan card. Our system employs advanced encryption techniques to safeguard your sensitive information during transmission and storage.
+Document Upload: Next, securely upload your identification documents, such as your Aadhar card, signature, and pan card. Our system employs advanced encryption techniques to safeguard your sensitive information during transmission and storage.
 
 Automated Processing: Once your information and documents are submitted, our system takes care of the rest. Through automated verification processes, we validate the authenticity of your identity documents and cross-reference them with the information provided.
 
